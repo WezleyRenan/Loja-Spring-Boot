@@ -2,6 +2,9 @@
 
 Este projeto é uma aplicação de e-commerce desenvolvida em Java utilizando Spring Boot. A aplicação permite a criação, atualização, listagem e exclusão de lojas, produtos e vendas.
 
+![uma loja sem nome](https://github.com/user-attachments/assets/ee046c34-30d8-4dfc-a6ea-26757c0d656e)
+
+
 ## Tecnologias Utilizadas
 - Java
 - Spring Boot
@@ -215,8 +218,3 @@ mvn spring-boot:run
 4. Faça push para a branch (`git push origin feature/fooBar`)
 5. Crie um novo Pull Request
 
-## Licença
-Este projeto é licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-```
-Espero que isso ajude! Se precisar de mais alguma coisa, é só falar. 🙂
